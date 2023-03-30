@@ -18,8 +18,8 @@ Projeto realizado por mim, Raul Santos Iglesias, com participação da disciplin
 
 ![](images/moreWin.png)
 
-![](images/(moreGoals.png)
+![](images/moreGoals.png)
 
-![](images/(top5Goals.png)
+![](images/top5Goals.png)
 
 ![](images/top1.png)
